@@ -1,0 +1,6 @@
+[ {
+  "text" : "todoist add item",
+  "requiresMention" : false,
+  "isRegex" : false,
+  "caseSensitive" : false
+} ]
